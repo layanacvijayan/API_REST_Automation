@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.testing.testScripts.TC5_DeleteRequest"/>
+      <class name="org.testing.testScripts.TC6_PostMethodRequest"/>
+      <class name="org.testing.testScripts.TC7_GetAllMethodRequest"/>
+      <class name="org.testing.testScripts.TC8_GetParticularMethodRequest"/>
+      
+      <class name="org.testing.testScripts.TC10_DeleteMethodRequest"/>    
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

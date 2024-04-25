@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-25T20:06:31 GST" name="Suite" finished-at="2024-04-25T20:06:36 GST" duration-ms="4460">
+    <groups>
+    </groups>
+    <test started-at="2024-04-25T20:06:31 GST" name="Test" finished-at="2024-04-25T20:06:36 GST" duration-ms="4460">
+      <class name="org.testing.testScripts.TC6_PostMethodRequest">
+        <test-method signature="testCase6()[pri:0, instance:org.testing.testScripts.TC6_PostMethodRequest@3c19aaa5]" started-at="2024-04-25T20:06:33 GST" name="testCase6" finished-at="2024-04-25T20:06:34 GST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+      </class> <!-- org.testing.testScripts.TC6_PostMethodRequest -->
+      <class name="org.testing.testScripts.TC10_DeleteMethodRequest">
+        <test-method signature="testCase10()[pri:0, instance:org.testing.testScripts.TC10_DeleteMethodRequest@38d8f54a]" started-at="2024-04-25T20:06:35 GST" name="testCase10" finished-at="2024-04-25T20:06:36 GST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase10 -->
+      </class> <!-- org.testing.testScripts.TC10_DeleteMethodRequest -->
+      <class name="org.testing.testScripts.TC5_DeleteRequest">
+        <test-method signature="testCase5()[pri:0, instance:org.testing.testScripts.TC5_DeleteRequest@130d63be]" started-at="2024-04-25T20:06:31 GST" name="testCase5" finished-at="2024-04-25T20:06:33 GST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- org.testing.testScripts.TC5_DeleteRequest -->
+      <class name="org.testing.testScripts.TC8_GetParticularMethodRequest">
+        <test-method signature="testCase8()[pri:0, instance:org.testing.testScripts.TC8_GetParticularMethodRequest@409bf450]" started-at="2024-04-25T20:06:35 GST" name="testCase8" finished-at="2024-04-25T20:06:35 GST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+      </class> <!-- org.testing.testScripts.TC8_GetParticularMethodRequest -->
+      <class name="org.testing.testScripts.TC7_GetAllMethodRequest">
+        <test-method signature="testCase7()[pri:0, instance:org.testing.testScripts.TC7_GetAllMethodRequest@3349e9bb]" started-at="2024-04-25T20:06:34 GST" name="testCase7" finished-at="2024-04-25T20:06:35 GST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+      </class> <!-- org.testing.testScripts.TC7_GetAllMethodRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
